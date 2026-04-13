@@ -10,8 +10,8 @@ We are developing an AI-powered self-interview preparation platform. This platfo
 ![Home Page](ui_pages/homepage.jpeg)
 - [Interview Selection Page](ui_pages/interview_selection.jpeg)
 ![Interview Selection Page](ui_pages/interview_selection.jpeg)
-- [Practice Interview Page](ui_pages/progress.jpeg)
-![Practice Interview Page](ui_pages/progress.jpeg)
+- [Practice Interview Page](ui_pages/progress.png)
+![Practice Interview Page](ui_pages/progress.png)
 - [Feedback and Analysis Page](ui_pages/feedback.jpeg)
 ![Feedback and Analysis Page](ui_pages/feedback.jpeg)
 
@@ -46,12 +46,8 @@ We are developing an AI-powered self-interview preparation platform. This platfo
 
 - Each team will consist of 5 members.
 
-### Team Members
+### Team Member
 
-- [Devesh](https://github.com/member1)
-- [Nikhil Kumar](https://github.com/member2)
-- [Satya Indra](https://github.com/member3)
-- [Akash mishra](https://github.com/member3)
 - [Mohammadi Maheen Naaz](https://github.com/maheennaaz)
 
 ## Getting Started
