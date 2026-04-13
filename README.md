@@ -52,6 +52,7 @@ We are developing an AI-powered self-interview preparation platform. This platfo
 - [Nikhil Kumar](https://github.com/member2)
 - [Satya Indra](https://github.com/member3)
 - [Akash mishra](https://github.com/member3)
+- [Mohammadi Maheen Naaz](https://github.com/maheennaaz)
 
 ## Getting Started
 
