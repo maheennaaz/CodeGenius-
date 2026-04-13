@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/build",
+  "env": {
+    "REACT_APP_EXPRESS_API_URL": "@express_api_url",
+    "REACT_APP_BOT_API_URL": "@bot_api_url"
+  }
+}
